@@ -1,1 +1,3 @@
-# Graduate and Post-graduate programs in Machine Learning, Artificial Intelligence and Data Sciences in Scotland
+# Graduate and Post-graduate programs in Scotland
+
+(Quantum Computing)[quantum-computing.md]
