@@ -7,3 +7,4 @@
 5. [Artificial Intelligence, MSc at University of Aberdeen](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1034/artificial-intelligence/)
 6. [MSc Artificial Intelligence at University of Stirling](https://www.stir.ac.uk/courses/pg-taught/artificial-intelligence/)
 7. [Robotics & AI MSc at University of Glasgow](https://www.gla.ac.uk/postgraduate/taught/roboticsai/)
+8. [MSc Applied Artificial Intelligence and User Experience at Abertay University](https://www.abertay.ac.uk/course-search/postgraduate-taught/applied-artificial-intelligence-and-user-experience/)
