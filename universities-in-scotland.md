@@ -7,4 +7,12 @@
 5. [University of St Andrews](https://www.st-andrews.ac.uk/)
 6. [University of Glasgow](https://www.gla.ac.uk/)
 7. [University of Dundee](https://www.dundee.ac.uk/)
-8. 
+8. [University of Aberdeen](https://www.abdn.ac.uk/)
+9. [The University of Edinburgh](https://www.ed.ac.uk/)
+10. [The Open University](https://www.open.ac.uk/)
+11. [SRUC Scotland’s Rural College](https://www.sruc.ac.uk/)
+12. [Robert Gordon University](https://www.rgu.ac.uk/)
+13. [Queen Margaret University, Edinburgh](https://www.qmu.ac.uk)
+14. [Heriot-Watt University](https://www.hw.ac.uk/)
+15. [Glasgow School of Art](https://www.gsa.ac.uk/)
+16. [Glasgow Caledonian University](https://www.gcu.ac.uk/)
