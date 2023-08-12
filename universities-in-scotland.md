@@ -5,3 +5,6 @@
 3. [University of Strathclyde](https://www.strath.ac.uk/)
 4. [University of Stirling](https://www.stir.ac.uk/)
 5. [University of St Andrews](https://www.st-andrews.ac.uk/)
+6. [University of Glasgow](https://www.gla.ac.uk/)
+7. [University of Dundee](https://www.dundee.ac.uk/)
+8. 
