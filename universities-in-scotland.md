@@ -17,3 +17,4 @@
 15. [Glasgow School of Art](https://www.gsa.ac.uk/)
 16. [Glasgow Caledonian University](https://www.gcu.ac.uk/)
 17. [Edinburgh Napier University](https://www.napier.ac.uk/)
+18. [Abertay University](https://www.abertay.ac.uk/)
