@@ -9,4 +9,5 @@
 ## Courses
 ### [Bio-inspired Computing](bio-inspired-compting.md)
 
-## [Universities in Scotland](universities-in-scotland.md)
+## Also see
+### [Universities in Scotland](universities-in-scotland.md)
